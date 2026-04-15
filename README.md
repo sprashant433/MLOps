@@ -3,7 +3,7 @@
 A comprehensive collection of Machine Learning and MLOps notebooks — from data preprocessing to production deployment.
 
 > Open any notebook directly in Google Colab using the **🔗 Open in Colab** links below.  
-> **Note:** Run the ⚙️ Setup cell first in each notebook to load images.
+> **Note:** Run the [test_notebook.ipynb](https://colab.research.google.com/drive/1ta6TGmvgYwbk3FBIBcFP_AUUxb7iGA8x) to start hands-on revision
 
 ---
 
